@@ -1,0 +1,18 @@
+body {
+  background-color: #d9f8c4;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.h1_style {
+  color: #25316d;
+}
+
+.input_style {
+  padding: 1rem;
+  border-radius: 1rem;
+  border-color: #554994;
+}
